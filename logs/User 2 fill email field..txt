@@ -1,0 +1,5 @@
+[October 24, 2024 - Thursday @ 16:29:20] - Test Started: User 2 fill email field.
+[October 24, 2024 - Thursday @ 16:29:20] - Started Function: setObjectValue
+[October 24, 2024 - Thursday @ 16:29:20] - Completed Function: setObjectValue - Success [//input[@id="email"]]
+[October 24, 2024 - Thursday @ 16:29:20] - User fill email field
+[October 24, 2024 - Thursday @ 16:29:20] - Test Completed: User 2 fill email field.

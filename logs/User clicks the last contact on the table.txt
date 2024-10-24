@@ -1,0 +1,5 @@
+[October 24, 2024 - Thursday @ 16:29:32] - Test Started: User clicks the last contact on the table
+[October 24, 2024 - Thursday @ 16:29:32] - Started Function: clickObject
+[October 24, 2024 - Thursday @ 16:29:33] - Completed Function: clickObject - Success [//*[@id="myTable"]/tr[3]]
+[October 24, 2024 - Thursday @ 16:29:33] - Test Completed: User clicks the last contact on the table
+[October 24, 2024 - Thursday @ 16:29:33] - User clicks the last contact on the table

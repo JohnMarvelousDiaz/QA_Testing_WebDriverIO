@@ -1,0 +1,23 @@
+[October 24, 2024 - Thursday @ 16:29:35] - 
+**************************************************
+Name: Maica Franco
+Birthdate: 2002-04-03
+Email: testjmseconduser@test.com
+Phone: 3216540987
+Address: 456 Maple Ave Suite 5A
+City: San Simon Pampanga 10241628
+Country: Philippines
+**************************************************
+
+**************************************************
+Name: John Marvelous
+Birthdate: 2002-05-28
+Email: testjmfirstuser@test.com
+Phone: 1234567890
+Address: 123 Main St Apt 4B
+City: Hagonoy Bulacan 12345
+Country: Philippines
+**************************************************
+
+[October 24, 2024 - Thursday @ 16:29:35] - User creates a text file containing all the details of the existing contacts in the table
+[October 24, 2024 - Thursday @ 16:29:35] - Test Completed: User creates a text file containing all the details of the existing contacts in the table.

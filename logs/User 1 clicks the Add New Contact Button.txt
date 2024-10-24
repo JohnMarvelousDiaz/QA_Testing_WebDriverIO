@@ -1,0 +1,5 @@
+[October 24, 2024 - Thursday @ 16:29:13] - Test Started: User 1 clicks the Add New Contact Button
+[October 24, 2024 - Thursday @ 16:29:13] - Started Function: clickObject
+[October 24, 2024 - Thursday @ 16:29:14] - Completed Function: clickObject - Success [//button[@id="add-contact"]]
+[October 24, 2024 - Thursday @ 16:29:14] - User clicks the Add New Contact Button
+[October 24, 2024 - Thursday @ 16:29:14] - Test Completed: User 1 clicks the Add New Contact Button
