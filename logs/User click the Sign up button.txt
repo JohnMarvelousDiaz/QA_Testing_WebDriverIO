@@ -1,5 +1,5 @@
-[October 24, 2024 - Thursday @ 16:34:14] - Test Started: User click the Sign up button
-[October 24, 2024 - Thursday @ 16:34:14] - Started Function: clickObject
-[October 24, 2024 - Thursday @ 16:34:15] - Completed Function: clickObject - Success [//button[@id="signup"]]
-[October 24, 2024 - Thursday @ 16:34:15] - User click the Sign up button
-[October 24, 2024 - Thursday @ 16:34:15] - Test Completed: User click the Sign up button
+[October 24, 2024 - Thursday @ 16:36:14] - Test Started: User click the Sign up button
+[October 24, 2024 - Thursday @ 16:36:14] - Started Function: clickObject
+[October 24, 2024 - Thursday @ 16:36:14] - Completed Function: clickObject - Success [//button[@id="signup"]]
+[October 24, 2024 - Thursday @ 16:36:14] - User click the Sign up button
+[October 24, 2024 - Thursday @ 16:36:14] - Test Completed: User click the Sign up button

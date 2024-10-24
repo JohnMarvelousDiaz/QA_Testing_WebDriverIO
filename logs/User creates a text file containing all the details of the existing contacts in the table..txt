@@ -1,11 +1,11 @@
-[October 24, 2024 - Thursday @ 16:34:41] - 
+[October 24, 2024 - Thursday @ 16:36:46] - 
 **************************************************
 Name: Maica Franco
 Birthdate: 2002-04-03
 Email: testjmseconduser@test.com
 Phone: 3216540987
 Address: 456 Maple Ave Suite 5A
-City: San Simon Pampanga 10241634
+City: San Simon Pampanga 10241636
 Country: Philippines
 **************************************************
 
@@ -19,5 +19,5 @@ City: Hagonoy Bulacan 12345
 Country: Philippines
 **************************************************
 
-[October 24, 2024 - Thursday @ 16:34:41] - User creates a text file containing all the details of the existing contacts in the table
-[October 24, 2024 - Thursday @ 16:34:41] - Test Completed: User creates a text file containing all the details of the existing contacts in the table.
+[October 24, 2024 - Thursday @ 16:36:46] - User creates a text file containing all the details of the existing contacts in the table
+[October 24, 2024 - Thursday @ 16:36:46] - Test Completed: User creates a text file containing all the details of the existing contacts in the table.

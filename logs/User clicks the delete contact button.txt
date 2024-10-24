@@ -1,4 +1,5 @@
-[October 24, 2024 - Thursday @ 16:34:39] - Test Started: User clicks the delete contact button
-[October 24, 2024 - Thursday @ 16:34:40] - Completed Function: clickObject - Success [//button[@id="delete"]]
-[October 24, 2024 - Thursday @ 16:34:40] - User clicks the delete contact button
-[October 24, 2024 - Thursday @ 16:34:40] - Test Completed: User clicks the delete contact button
+[October 24, 2024 - Thursday @ 16:36:41] - Test Started: User clicks the delete contact button
+[October 24, 2024 - Thursday @ 16:36:41] - Started Function: clickObject
+[October 24, 2024 - Thursday @ 16:36:41] - Completed Function: clickObject - Success [//button[@id="delete"]]
+[October 24, 2024 - Thursday @ 16:36:41] - User clicks the delete contact button
+[October 24, 2024 - Thursday @ 16:36:41] - Test Completed: User clicks the delete contact button

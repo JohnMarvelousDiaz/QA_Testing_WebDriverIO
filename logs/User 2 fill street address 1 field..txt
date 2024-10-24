@@ -1,4 +1,5 @@
-[October 24, 2024 - Thursday @ 16:34:28] - Test Started: User 2 fill street address 1 field.
-[October 24, 2024 - Thursday @ 16:34:28] - Completed Function: setObjectValue - Success [//input[@id="street1"]]
-[October 24, 2024 - Thursday @ 16:34:28] - User fill street address 1 field
-[October 24, 2024 - Thursday @ 16:34:28] - Test Completed: User 2 fill street address 1 field.
+[October 24, 2024 - Thursday @ 16:36:28] - Test Started: User 2 fill street address 1 field.
+[October 24, 2024 - Thursday @ 16:36:28] - Started Function: setObjectValue
+[October 24, 2024 - Thursday @ 16:36:28] - Completed Function: setObjectValue - Success [//input[@id="street1"]]
+[October 24, 2024 - Thursday @ 16:36:28] - User fill street address 1 field
+[October 24, 2024 - Thursday @ 16:36:28] - Test Completed: User 2 fill street address 1 field.
