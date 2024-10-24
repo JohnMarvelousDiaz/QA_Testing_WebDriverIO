@@ -162,24 +162,6 @@ describe('Heroku App Add Contact_TC003', () => {
 })
 
 describe('Heroku App Edit Contact TC004', () => {
-    // it('Navigate to thinking tester website', async () => {
-    //     await herokuApp.navigateToLandingPage();
-    //     await Reporter.addLog('Navigate to thinking tester website')
-    // });
-
-    // it('Login using the saved credentials.', async () => {
-    //     await objUtils.setObjectValue(herokuApp.emailInput, defaultUser.email);
-    //     await objUtils.setObjectValue(herokuApp.passwordInput, defaultUser.password);
-    //     await Reporter.addLog('User filled required inputs')
-
-    //     await objUtils.clickObject(herokuApp.submitButton);
-    //     await Reporter.addLog('Click submit button')
-
-    //     await expect(herokuApp.successMessageOnSignUp).toHaveText('Click on any contact to view the Contact Details');
-    //     await expect(herokuApp.logoutButton).toBeDisplayed();
-    //     await Reporter.addLog('Login using the saved credentials')
-
-    // });
 
     it('User clicks the first contact on the table', async () => {
         await objUtils.clickObject(herokuApp.firstDataOnTable);
