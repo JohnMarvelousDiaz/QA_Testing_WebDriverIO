@@ -71,7 +71,7 @@ class UserData {
 
     generateUniqueEmail() {
         const strDateTime = moment(new Date()).format('YYYYMMDDHHmm');
-        const formattedEmail = `test_${strDateTime}_15_052802@test.com`;
+        const formattedEmail = `test_${strDateTime}_15@test.com`;
         return formattedEmail;
     }
 
