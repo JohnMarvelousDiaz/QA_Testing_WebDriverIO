@@ -1,2 +1,0 @@
-[October 24, 2024 - Thursday @ 10:27:48] - Test Started: Demo 1
-[October 24, 2024 - Thursday @ 10:28:37] - Test Completed: Demo 1

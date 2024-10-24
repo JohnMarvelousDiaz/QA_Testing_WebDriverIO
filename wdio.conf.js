@@ -27,8 +27,9 @@ export const config = {
     // of the config file unless it's absolute.
     //
     specs: [
-        './test/specs/**/*.js'
+        // './test/specs/**/*.js'
         // './test/specs/demo2.js'
+        './test/specs/activity.js'
     ],
     // Patterns to exclude.
     exclude: [
@@ -60,7 +61,8 @@ export const config = {
         // capabilities for local browser web tests
         browserName: 'chrome',
         'goog:chromeOptions': {
-            args: ['--headless'],
+            args: ['--start-maximized', '--header'],
+            // args: ['--headless'],
         },
     }],
 
