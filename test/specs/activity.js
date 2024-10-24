@@ -211,30 +211,30 @@ describe('Heroku App Edit Contact TC004', () => {
     });
 })
 
-// describe('Heroku App Delete Contact TC005', () => {
-//     it('User clicks the last contact on the table', async () => {
-//         await objUtils.clickObject(herokuApp.lastDataOnTable)
-//         await Reporter.addLog('User clicks the last contact on the table')
-//     })
+describe('Heroku App Delete Contact TC005', () => {
+    it('User clicks the last contact on the table', async () => {
+        await objUtils.clickObject(herokuApp.lastDataOnTable)
+        await Reporter.addLog('User clicks the last contact on the table')
+    })
 
-//     it('User clicks the delete contact button', async () => {
-//         await objUtils.clickObject(herokuApp.deleteContactButton)
-//         await Reporter.addLog('User clicks the delete contact button')
-//     })
+    it('User clicks the delete contact button', async () => {
+        await objUtils.clickObject(herokuApp.deleteContactButton)
+        await Reporter.addLog('User clicks the delete contact button')
+    })
 
-//     // it('User clicks OK', async () => {        
-//     //     await browser.acceptAlert();
-//     //     await Reporter.addLog('User clicks OK')
-//     // })
+    it('User clicks OK', async () => {        
+        await browser.acceptAlert();
+        await Reporter.addLog('User clicks OK')
+    })
 
-// })
+})
 
 describe('Heroku App Export Contacts on File_TC006', () => {
     it('User creates a text file containing all the details of the existing contacts in the table.', async () => {
                 
         let allContactData = '';
 
-        for (let i = 0; i <= 2; i++) {
+        for (let i = 0; i <= 1; i++) {
             const contactRow = await $$('.contactTableBodyRow')[i];
 
             const name = await contactRow.$('td:nth-child(2)').getText();

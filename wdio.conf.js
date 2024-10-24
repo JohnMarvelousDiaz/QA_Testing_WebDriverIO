@@ -60,6 +60,7 @@ export const config = {
     capabilities: [{
         // capabilities for local browser web tests
         browserName: 'chrome',
+        'wdio:enforceWebDriverClassic': true,
         'goog:chromeOptions': {
             args: ['--start-maximized', '--header'],
             // args: ['--headless'],
