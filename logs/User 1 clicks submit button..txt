@@ -1,5 +1,5 @@
-[October 24, 2024 - Thursday @ 16:29:17] - Test Started: User 1 clicks submit button.
-[October 24, 2024 - Thursday @ 16:29:17] - Started Function: clickObject
-[October 24, 2024 - Thursday @ 16:29:17] - Completed Function: clickObject - Success [//button[@id="submit"]]
-[October 24, 2024 - Thursday @ 16:29:17] - Click submit button
-[October 24, 2024 - Thursday @ 16:29:17] - Test Completed: User 1 clicks submit button.
+[October 24, 2024 - Thursday @ 16:34:25] - Test Started: User 1 clicks submit button.
+[October 24, 2024 - Thursday @ 16:34:25] - Started Function: clickObject
+[October 24, 2024 - Thursday @ 16:34:25] - Completed Function: clickObject - Success [//button[@id="submit"]]
+[October 24, 2024 - Thursday @ 16:34:25] - Click submit button
+[October 24, 2024 - Thursday @ 16:34:25] - Test Completed: User 1 clicks submit button.

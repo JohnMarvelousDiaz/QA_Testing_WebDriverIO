@@ -1,4 +1,5 @@
-[October 24, 2024 - Thursday @ 16:29:27] - Test Started: User clicks the first contact on the table
-[October 24, 2024 - Thursday @ 16:29:28] - User clicks the first contact on the table
-[October 24, 2024 - Thursday @ 16:29:28] - Test Completed: User clicks the first contact on the table
-[October 24, 2024 - Thursday @ 16:29:28] - Completed Function: clickObject - Success [//*[@id="myTable"]/tr[1]]
+[October 24, 2024 - Thursday @ 16:34:33] - Test Started: User clicks the first contact on the table
+[October 24, 2024 - Thursday @ 16:34:33] - Started Function: clickObject
+[October 24, 2024 - Thursday @ 16:34:35] - Completed Function: clickObject - Success [//*[@id="myTable"]/tr[1]]
+[October 24, 2024 - Thursday @ 16:34:35] - User clicks the first contact on the table
+[October 24, 2024 - Thursday @ 16:34:35] - Test Completed: User clicks the first contact on the table
